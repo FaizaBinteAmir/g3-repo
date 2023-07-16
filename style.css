@@ -53,3 +53,9 @@ img{
         text-align: center;
     }
 }
+@media screen and (min-width:576px) and (max-width:960px){
+    header{
+        height: 700px;
+    }
+
+} 
