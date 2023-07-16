@@ -96,5 +96,13 @@ box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
     header{
         height: 700px;
     }
-
+    .main2{
+        gap: 5px;
+    }
+    .Features{
+        padding-left: 0px;
+    }
+.p{
+    width: 250px;
+}
 } 
