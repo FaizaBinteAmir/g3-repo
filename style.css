@@ -42,13 +42,13 @@ img{
     nav{
         flex-direction: column;
     }
-    img{
+    .text img{
         width:100% ;
     }
-    header{
-        width: 500px;
-        height: 700px;
-    }
+    /* header{ */
+        /* width: 500px; */
+        /* height: 700px; */
+    /* } */
     .hed{
         text-align: center;
     }
