@@ -150,4 +150,7 @@ border: 1px solid #FF900E;
 .p{
     width: 250px;
 }
+.main-box{
+    gap: 20px;
+}
 } 
